@@ -1,0 +1,10 @@
+{
+ "name": "docker-webapp",
+ "version": "1.0.0",
+ "description": "Simple Node.js app for Dockerfile demo",
+ "main": "app.js",
+ "scripts": {
+ "start": "node app.js"
+ },
+ "dependencies": {}
+}
